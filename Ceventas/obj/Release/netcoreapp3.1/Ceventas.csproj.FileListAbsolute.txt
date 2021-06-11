@@ -1,0 +1,27 @@
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\Ceventas20210611171457 - Web Deploy\profile.arm.json
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\bin\Release\netcoreapp3.1\Ceventas.exe
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\bin\Release\netcoreapp3.1\Ceventas.deps.json
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\bin\Release\netcoreapp3.1\Ceventas.runtimeconfig.json
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\bin\Release\netcoreapp3.1\Ceventas.runtimeconfig.dev.json
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\bin\Release\netcoreapp3.1\Ceventas.dll
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\bin\Release\netcoreapp3.1\Ceventas.pdb
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\obj\Release\netcoreapp3.1\Ceventas.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\obj\Release\netcoreapp3.1\Ceventas.AssemblyInfoInputs.cache
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\obj\Release\netcoreapp3.1\Ceventas.AssemblyInfo.cs
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\obj\Release\netcoreapp3.1\Ceventas.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\obj\Release\netcoreapp3.1\Ceventas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\obj\Release\netcoreapp3.1\Ceventas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\obj\Release\netcoreapp3.1\Ceventas.RazorTargetAssemblyInfo.cache
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\obj\Release\netcoreapp3.1\Ceventas.csproj.CopyComplete
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\obj\Release\netcoreapp3.1\staticwebassets\Ceventas.StaticWebAssets.Manifest.cache
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\obj\Release\netcoreapp3.1\staticwebassets\Ceventas.StaticWebAssets.xml
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\obj\Release\netcoreapp3.1\Ceventas.dll
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\obj\Release\netcoreapp3.1\Ceventas.pdb
+C:\Users\Andrew\source\repos\Ceventas\Ceventas\obj\Release\netcoreapp3.1\Ceventas.genruntimeconfig.cache
